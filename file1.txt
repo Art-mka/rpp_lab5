@@ -1,2 +1,5 @@
 Hello
+HEAD
 Conflict from clone
+Conflict from main
+376aa1fc67dcba7c3019dbc3aa5f9aa7c50761af
